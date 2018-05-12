@@ -1,0 +1,45 @@
+_repo: '------------------_33396'
+_version: 0.1.0
+alternative_title: The life of Christ. Greek
+contributor:
+  translator:
+    agent_name: Papadiamantes, Alexandros
+    aliases:
+    - Παπαδιαμάντης, Αλέξανδρος
+    - Papadiamantis, Alexandros
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '35382'
+    url: http://www.gutenberg.org/2009/agents/35382
+    wikipedia: http://en.wikipedia.org/wiki/Alexandros_Papadiamantis
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Farrar, F. W. (Frederic William)
+    aliases:
+    - Farrar, Frederic W.
+    - Farrar, Frederick William
+    - Farrar, Frederic William
+    - Farrar, Dean (Frederic William)
+    - Hope, F. T. L.
+    birthdate: 1831
+    deathdate: 1903
+    gutenberg_agent_id: '3715'
+    url: http://www.gutenberg.org/2009/agents/3715
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
+description: 'Translation of: The Life of Christ'
+gutenberg_issued: '2010-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33396'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Biography'
+title: Ο Βίος του Χριστού
+url: http://www.gutenberg.org/ebooks/33396
